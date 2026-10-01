@@ -11,7 +11,7 @@ int main()
     printf("what is ur time in year(t):");
     scanf("%d",&t);
 
-    // working formula of si
+    // working formula of si >,<
     si=(p*r*t)/100;
     
     printf("here is ur intrest money for the %d years = %.2f",t,si);
